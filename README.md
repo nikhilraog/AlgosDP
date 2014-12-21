@@ -64,6 +64,4 @@ Output for part b:
 
 To Run:
 
-* Download the lmsdp.java file and just run it like any other java file
-* Example : javac lmsdp.java
-            java lmsdp
+* Download the lmsdp.java file and just run it like any other java file ( javac lmsdp.java && java lmsdp )
